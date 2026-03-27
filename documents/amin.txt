@@ -1,0 +1,9 @@
+Ehrenfeucht–Fraïssé (EF) games are a fundamental tool in classical (finite) model theory, providing a combinatorial characterisation of elementary equivalence and a powerful method for proving inexpressibility results.
+
+In this talk, we study extensions of EF games to logics with many-valued semantics, where formulae take values in an underlying algebraic structure such as a Boolean algebra or a commutative semiring, rather than the classical two truth values.
+
+Recent work of Grädel, Brinke, and Mrkonjić shows that in semiring semantics the classical correspondence between EF games and logical indistinguishability breaks down: in general, the standard EF game cannot be both sound and complete for elementary equivalence unless one works over the Boolean semiring, which recovers classical two-valued logic.
+
+This talk reports on work in progress exploring the extent to which these negative results can be overcome, with a primary focus on Boolean-valued models. In this setting, the presence of a well-behaved negation and the resulting logical dualities suggest that EF-style techniques may behave more closely to the classical case.
+
+Our longer-term goal is to extend these ideas to partial Boolean-algebra-valued models, which play an important role in the study of quantum logic and information.
